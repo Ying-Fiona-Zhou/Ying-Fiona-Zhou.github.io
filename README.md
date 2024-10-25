@@ -7,7 +7,7 @@ The website showcases my research, publications, and projects related to **data 
 # Getting Started
 
 1. Visit my website at: [https://Ying-Fiona-Zhou.github.io](https://Ying-Fiona-Zhou.github.io)
-2. Check out my [publications](https://Ying-Fiona-Zhou.github.io/publications) and [projects](https://Ying-Fiona-Zhou.github.io/projects).
+2. Check out my [cv](https://Ying-Fiona-Zhou.github.io/cv) and [research](https://Ying-Fiona-Zhou.github.io/research).
 3. If you'd like to contribute, feel free to open an issue or a pull request.
 
 # Contact

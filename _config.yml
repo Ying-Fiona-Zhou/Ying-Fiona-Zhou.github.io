@@ -14,7 +14,7 @@ name                     : &name "Ying Fiona Zhou"
 description              : &description "Professional Website"
 url                      : "https://Ying-Fiona-Zhou.github.io"
 baseurl                  : ""  # Keep this empty if your site is at the root of the domain
-repository               : "Ying-Fiona-Zhou/academicpages.github.io"
+repository               : "Ying-Fiona-Zhou.github.io"
 permalink                : /:path/
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
