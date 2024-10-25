@@ -8,14 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ying Fiona Zhou"
-title_separator          : "-"
 name                     : &name "Ying Fiona Zhou"
 description              : &description "Data Scientist | Ph.D. in Fiber & Polymer Science | Specializing in Machine Learning and Computational Modeling"
 url                      : "https://Ying-Fiona-Zhou.github.io"
 baseurl                  : ""  # Keep this empty if your site is at the root of the domain
 repository               : "Ying-Fiona-Zhou/academicpages.github.io"
-permalink                : /:title/
+permalink                : /:path/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
