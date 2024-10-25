@@ -1,18 +1,9 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+Me:
+  name        : "Ying(Fiona) Zhou"
+  uri         : "https://Ying-Fiona-Zhou.github.io"
+  email       : "ying6.zhou@gmail.com"
+  bio         : "I hold a Ph.D. from North Carolina State University, where I conducted cutting-edge research in material science and led data-driven projects. Recently, I completed a diploma in Data Science from BrainStation, where I honed my skills in machine learning, focusing on predictive analytics and trend forecasting. I am passionate about solving complex problems through data and am eager to continue applying my expertise to new challenges in the data science field."
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+ 
