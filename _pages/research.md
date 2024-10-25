@@ -1,15 +1,18 @@
 ---
-layout: archive
+layout: default
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+
 
 {% include base_path %}
 
 <embed src="{{ site.baseurl }}/files/Research_Summary.pdf" width="600" height="700" type='application/pdf'>
 
 ---
+# Research Page
 
 ## Research Highlights
 - **Nanotechnology**: Synthesized and optimized nanoparticles for bio-detection systems and flexible electronics.
