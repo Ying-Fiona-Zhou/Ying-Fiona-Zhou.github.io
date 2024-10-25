@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-# Research Page
-
 ## Research Highlights
 - **Nanotechnology**: Synthesized and optimized nanoparticles for bio-detection systems and flexible electronics.
 - **Data Analytics & Machine Learning**: Applied machine learning models to predict nanoparticle properties and optimize material designs for smart textiles and bio-detection.
@@ -67,6 +65,7 @@ author_profile: true
 - Published **11 research papers** and presented findings at **10+ conferences** in the fields of nanotechnology, wearable electronics, and bio-detection systems.
 - Applied **machine learning** and **data analytics** to enhance experimental design and predict material properties in research projects across **smart textiles** and **bio-nanotechnology**.
 - Led interdisciplinary collaborations and contributed to the development of market-ready products in **wearable electronics** and **biosensor technologies**.
+
 ---
 
 ### Skills and Tools:
