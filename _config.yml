@@ -15,6 +15,7 @@ description              : &description "Data Scientist | Ph.D. in Fiber & Polym
 url                      : "https://Ying-Fiona-Zhou.github.io"
 baseurl                  : ""  # Keep this empty if your site is at the root of the domain
 repository               : "Ying-Fiona-Zhou/academicpages.github.io"
+permalink                : /:title/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
