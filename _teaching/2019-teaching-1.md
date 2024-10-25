@@ -2,7 +2,7 @@
 title: "Research and Development (RDU) Experience"
 collection: experience
 type: "Research Role"
-permalink: /experience/rdu-2019
+permalink: /teaching/2019-teaching-1
 venue: "North Carolina State University"
 date: 2019-01-01
 location: "Raleigh, NC, USA"

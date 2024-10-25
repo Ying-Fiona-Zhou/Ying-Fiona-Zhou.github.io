@@ -2,7 +2,7 @@
 title: "Teaching Assistant - Chemistry Experiments"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-fall-teaching-1
+permalink: /teaching/2015-fall-teaching-3
 venue: "Donghua University, Department of Chemistry"
 date: 2015-08-01
 location: "Shanghai, China"

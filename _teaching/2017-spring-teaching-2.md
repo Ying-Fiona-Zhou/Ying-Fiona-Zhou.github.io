@@ -2,7 +2,7 @@
 title: "Teaching Assistant - Physics Courses"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2017-spring-teaching-1
+permalink: /teaching/2017-spring-teaching-2
 venue: "North Carolina State University, Department of Physics"
 date: 2017-01-01
 location: "Raleigh, NC, USA"
