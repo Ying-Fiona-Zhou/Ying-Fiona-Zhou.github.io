@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-**Fiona (Ying) Zhou** | Data Scientist
+**Ying (Fiona) Zhou** | Data Scientist
 
 I am a data-driven professional with a Ph.D. in Fiber & Polymer Science and extensive experience in data analysis, predictive modeling, and machine learning. My research background has equipped me with a strong foundation in deriving actionable insights from complex data sets, while my recent work in data science has focused on applying advanced analytics to solve real-world business problems.
 
