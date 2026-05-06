@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title: "Ying Zhou | North Carolina State University Ph.D."
+title: "Ying Zhou | Data Scientist + CS Graduate Student"
 title_separator: "-"
 name                     : &name "Ying Fiona Zhou"
 description              : &description "Professional Website"
@@ -85,7 +85,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ying Fiona Zhou"
-  bio              : "Data Scientist specializing in machine learning and computational modeling for drug discovery, biosciences, and nanomaterials."
+  bio              : "Data Scientist and Georgia Tech CS graduate student building ML, healthcare data, community web, and scientific computing projects."
   location         : "Metuchen, NJ"
   employer         : "Independent"
   email            : "ying6.zhou@gmail.com" 

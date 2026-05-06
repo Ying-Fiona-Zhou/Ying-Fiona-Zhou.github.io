@@ -12,11 +12,12 @@ redirect_from:
 - **LinkedIn:** [www.linkedin.com/in/yzhou09](https://www.linkedin.com/in/yzhou09)
 
 ## Summary
-Data Scientist | Data Analyst | Ph.D. in Nanomaterials | Bridging Advanced Analytics with Real-World Impact
+Data Scientist | Computer Science Graduate Student | Ph.D. in Nanomaterials | Bridging Advanced Analytics with Real-World Impact
 
-Transitioning into data science with a Ph.D. in nanomaterials, I bring a strong analytical background and hands-on research experience to drive impactful, data-driven decisions. Passionate about using complex datasets to solve real-world problems, optimize processes, and boost innovation across industries.
+Data scientist with a Ph.D. research foundation in nanomaterials and smart textiles, hands-on experience in machine learning, analytics, and web product development, and current graduate training in computer science. I build applied data tools across healthcare data, community information products, forecasting, and scientific computing.
 
 ## Education
+- **M.S. in Computer Science**, Georgia Institute of Technology, August 2025 - July 2027
 - **Diploma in Data Science**, BrainStation, July 2024 - October 2024
 - **Ph.D. in Fiber and Polymer Science**, North Carolina State University, 2016 - 2021
 - **M.S. in Textile Materials Engineering**, Donghua University, 2013 - 2016
@@ -27,7 +28,10 @@ Transitioning into data science with a Ph.D. in nanomaterials, I bring a strong 
 ### Freelance Data Scientist, Self-employed
 - **Dates:** October 2024 - Present
 - **Location:** New Jersey, United States
-- Developed predictive models (e.g., sales forecasting, customer churn) and interactive dashboards for clients. Applied Python, SQL, and NLP for sentiment analysis on social media.
+- Developed predictive models, data workflows, and interactive web tools across personal finance, healthcare signals, community information, and trend forecasting.
+- Built a real-time ECG monitoring web demo with ECG replay, risk-state visualization, clinician/patient modes, and AI-style explanations.
+- Built EdisonMom / Edison Chinese Family Life Guide, a mobile-first local resource website for Chinese-speaking families in Edison, NJ.
+- Applied Python, SQL, JavaScript, and data visualization workflows to turn raw datasets into usable products and decision-support interfaces.
 
 ### Research Collaborator, North Carolina State University
 - **Smart Textile Research:** Conducted data analysis and optimization of nanoparticle inks for wearable electronics.
@@ -42,11 +46,19 @@ Transitioning into data science with a Ph.D. in nanomaterials, I bring a strong 
 - Synthesized Au and Ag nanoparticles, enhancing bio-detection sensitivity and performing LSPR characterization for optical property analysis.
 
 ## Technical Skills
-- **Data Science & Development:** Python, SQL, Git, Pandas, NumPy, TensorFlow
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Data Science & Development:** Python, SQL, Git, Pandas, NumPy, scikit-learn, TensorFlow, JavaScript, HTML/CSS
+- **Data Visualization:** Tableau, Matplotlib, Seaborn, interactive dashboards, web-based storytelling
+- **Machine Learning:** classification, forecasting, time-series analysis, feature engineering, model evaluation
+- **Product Areas:** healthcare data, community web tools, personal finance workflows, scientific computing
 - **Design & Simulation:** Photoshop, 3D Max, HFSS (Antenna Simulation)
 - **Advanced Printing & Nanofabrication:** Inkjet printing, screen printing, spin coating, plasma processes
 - **Material Characterization:** TGA, XRD, Raman spectroscopy, SEM, TEM, AFM
+
+## Selected Projects
+- **EdisonMom / Edison Chinese Family Life Guide:** Mobile-first Chinese-language local guide for Edison, NJ families, covering schools, activities, food, services, events, and relocation resources.
+- **Real-time ECG Monitor:** Interactive ECG web demo with signal replay, heart-rate metrics, HRV, risk-state visualization, and patient/clinician explanation modes.
+- **Baby Name Trend Forecasting:** Data science capstone analyzing U.S. baby-name trends from 1952 to 2023 with machine learning, time-series forecasting, and cultural influence features.
+- **MoneyApp:** Personal finance import and categorization workflow for turning transaction records into clearer spending analysis.
 
 ## Certifications
 - Data Science Diploma

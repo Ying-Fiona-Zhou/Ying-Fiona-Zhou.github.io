@@ -11,20 +11,27 @@ redirect_from:
 
 ## About Me
 
-**Ying (Fiona) Zhou** | Data Scientist
+**Ying (Fiona) Zhou** | Data Scientist + Computer Science Graduate Student
 
-I am a data-driven professional with a Ph.D. in Fiber & Polymer Science and extensive experience in data analysis, predictive modeling, and machine learning. My research background has equipped me with a strong foundation in deriving actionable insights from complex data sets, while my recent work in data science has focused on applying advanced analytics to solve real-world business problems.
+I am a data scientist with a Ph.D. in Fiber & Polymer Science and a growing software engineering portfolio across machine learning, healthcare data, civic information products, and web applications. I am currently pursuing an M.S. in Computer Science at Georgia Tech, with an expected program timeline of August 2025 to July 2027.
 
-Throughout my career, I have worked on interdisciplinary projects, collaborating with academic and industry partners to drive innovation. My skills in Python, SQL, and data visualization tools (Tableau, Matplotlib) have allowed me to tackle various challenges, from nanoparticle modeling to market trend forecasting.
+My work sits at the intersection of scientific research, practical analytics, and human-centered tools. I build Python models, dashboards, and web experiences that turn complex information into something usable, from nanoparticle behavior and baby-name trend forecasting to ECG monitoring concepts and local community guides.
 
-### Research Focus
+### Current Focus
 
-My research primarily revolves around:
+- **Graduate study:** Georgia Tech M.S. in Computer Science, August 2025 - July 2027.
+- **Applied machine learning:** predictive modeling, time-series analysis, classification, and explainable analytics.
+- **Healthcare and biosignal data:** ECG monitoring demos and patient/clinician-facing data storytelling.
+- **Community web products:** local guides and lightweight public-interest tools, including EdisonMom / Edison family resources.
+- **Scientific computing:** nanomaterials, smart textiles, bio-detection, and materials modeling.
 
-- **Predictive Modeling**: Leveraging machine learning techniques such as Random Forest and Gradient Boosting to predict complex behaviors and optimize systems.
-- **Data Analysis & Insights**: Conducting trend analysis and business intelligence to provide actionable insights for decision-making.
-- **Interdisciplinary Collaboration**: Partnering with universities and industries to apply data-driven solutions to diverse problems, from smart textiles to sustainable materials.
+### Selected Projects
+
+- **EdisonMom / Edison Chinese Family Life Guide**: a mobile-first local information website for Chinese-speaking families in Edison, NJ, organizing schools, activities, food, life services, and community resources.
+- **Real-time ECG Monitor**: an interactive web demo for ECG replay, risk states, heart-rate metrics, and AI-style clinical/patient explanations.
+- **Baby Name Trend Forecasting**: a data science capstone project analyzing U.S. baby-name trends and cultural influences with machine learning and time-series forecasting.
+- **Nanoparticle and Smart Textile Analytics**: research-driven modeling and analysis for bio-detection, wearable electronics, conductive inks, and flexible antenna systems.
 
 ### Bio
 
-I hold a Ph.D. from North Carolina State University, where I conducted cutting-edge research in material science and led data-driven projects. Recently, I completed a diploma in Data Science from BrainStation, where I honed my skills in machine learning, focusing on predictive analytics and trend forecasting. I am passionate about solving complex problems through data and am eager to continue applying my expertise to new challenges in the data science field.
+I hold a Ph.D. from North Carolina State University, where I conducted research in materials science, smart textiles, bio-detection, and computational modeling. After completing a Data Science diploma at BrainStation, I have continued building practical ML and web projects while preparing for deeper computer science training at Georgia Tech. I am especially interested in systems that make technical information clearer, more useful, and more accessible to real people.
