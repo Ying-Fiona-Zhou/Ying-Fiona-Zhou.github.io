@@ -57,7 +57,7 @@ Data scientist with a Ph.D. research foundation in nanomaterials and smart texti
 ## Selected Projects
 - **[EdisonMom / Edison Chinese Family Life Guide](https://edisonmom.com/):** Mobile-first Chinese-language local guide for Edison, NJ families, covering schools, activities, food, services, events, and relocation resources.
 - **[Real-time ECG Monitor](https://ecag2.netlify.app/):** Interactive ECG web demo with signal replay, heart-rate metrics, HRV, risk-state visualization, and patient/clinician explanation modes.
-- **[Baby Name Trend Forecasting](https://babynamesprediction.streamlit.app/):** Data science capstone analyzing U.S. baby-name trends from 1952 to 2023 with machine learning, time-series forecasting, and cultural influence features.
+- **Baby Name Trend Forecasting ([App](https://babynamesprediction.streamlit.app/) / [Repository](https://github.com/Ying-Fiona-Zhou/Capstone_BabyName)):** Data science capstone analyzing U.S. baby-name trends from 1952 to 2023 with machine learning, time-series forecasting, and cultural influence features.
 - **MoneyApp:** Personal finance import and categorization workflow for turning transaction records into clearer spending analysis.
 
 ## Certifications

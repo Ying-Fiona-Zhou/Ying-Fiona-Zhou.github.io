@@ -30,6 +30,7 @@ Designed an interactive ECG monitoring concept that replays ECG signals, surface
 - **Type:** Data science capstone
 - **Stack:** Python, Pandas, scikit-learn, time-series analysis, feature engineering, visualization
 - **Live app:** [babynamesprediction.streamlit.app](https://babynamesprediction.streamlit.app/)
+- **Repository:** [Capstone_BabyName](https://github.com/Ying-Fiona-Zhou/Capstone_BabyName)
 
 Analyzed U.S. baby-name datasets from 1952 to 2023 to understand popularity shifts, demographic patterns, and cultural influence. Built forecasting and classification workflows to explore future name trends and turn noisy historical data into interpretable insights.
 

@@ -29,7 +29,7 @@ My work sits at the intersection of scientific research, practical analytics, an
 
 - **[EdisonMom / Edison Chinese Family Life Guide](https://edisonmom.com/)**: a mobile-first local information website for Chinese-speaking families in Edison, NJ, organizing schools, activities, food, life services, and community resources.
 - **[Real-time ECG Monitor](https://ecag2.netlify.app/)**: an interactive web demo for ECG replay, risk states, heart-rate metrics, and AI-style clinical/patient explanations.
-- **[Baby Name Trend Forecasting](https://babynamesprediction.streamlit.app/)**: a data science capstone project analyzing U.S. baby-name trends and cultural influences with machine learning and time-series forecasting.
+- **Baby Name Trend Forecasting** ([App](https://babynamesprediction.streamlit.app/) / [Repository](https://github.com/Ying-Fiona-Zhou/Capstone_BabyName)): a data science capstone project analyzing U.S. baby-name trends and cultural influences with machine learning and time-series forecasting.
 - **Nanoparticle and Smart Textile Analytics**: research-driven modeling and analysis for bio-detection, wearable electronics, conductive inks, and flexible antenna systems.
 
 ### Bio
