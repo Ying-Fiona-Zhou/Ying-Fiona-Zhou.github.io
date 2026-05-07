@@ -1,4 +1,4 @@
-# Academic Pages for Ying Fiona Zhou
+# Academic Pages for Fiona Zhou
 
 **This repository contains my personal academic website built using GitHub Pages.**
 

@@ -39,3 +39,109 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Homepage styling inspired by clean academic lab sites */
+.profile-hero {
+  margin-bottom: 2rem;
+  padding: 0 0 1.2rem 0;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.profile-hero__tagline {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #4a5568;
+}
+
+.profile-hero__intro {
+  margin: 0 0 0.8rem 0;
+  max-width: 48rem;
+  line-height: 1.7;
+}
+
+.profile-hero__links {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.page__content h2 {
+  margin-top: 2rem;
+  padding-top: 0.2rem;
+  border-top: 1px solid #f1f1f1;
+}
+
+.page-intro {
+  margin-bottom: 1.8rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.page-intro__tagline {
+  margin: 0 0 0.4rem 0;
+  font-size: 0.92rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #4a5568;
+}
+
+.page-intro__text {
+  margin: 0 0 0.7rem 0;
+  max-width: 50rem;
+  line-height: 1.7;
+}
+
+.page-intro__links {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.content-card {
+  margin: 0.6rem 0 1.4rem 0;
+  padding: 0.9rem 1rem;
+  border: 1px solid #ececec;
+  border-radius: 6px;
+  background: #fcfcfc;
+}
+
+.content-card p {
+  margin: 0 0 0.55rem 0;
+}
+
+.content-card p:last-child {
+  margin-bottom: 0;
+}
+
+.project-meta {
+  margin: 0.2rem 0 0.6rem 0;
+}
+
+.meta-badge {
+  display: inline-block;
+  margin: 0 0.35rem 0.35rem 0;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid #d9dce1;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  color: #334155;
+  background: #f8fafc;
+}
+
+.page-actions {
+  margin: 0.9rem 0 0 0;
+}
+
+.action-btn {
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid #cfd8e3;
+  border-radius: 6px;
+  background: #f8fbff;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.action-btn:hover {
+  background: #f0f6ff;
+}

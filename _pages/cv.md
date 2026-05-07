@@ -7,6 +7,19 @@ redirect_from:
   - /resume
 ---
 
+<div class="page-intro">
+  <p class="page-intro__tagline">Curriculum Vitae</p>
+  <p class="page-intro__text">
+    Data scientist and computer science graduate student with research and product experience across machine learning, healthcare data, and scientific computing.
+  </p>
+  <p class="page-intro__links">
+    <a href="/research/">Research</a> / <a href="/projects/">Projects</a> / <a href="/cv/">CV</a>
+  </p>
+  <p class="page-actions">
+    <a class="action-btn" href="mailto:ying6.zhou@gmail.com?subject=CV%20Request">Request PDF CV</a>
+  </p>
+</div>
+
 ## Contact
 - **Email:** ying6.zhou@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/yzhou09](https://www.linkedin.com/in/yzhou09)
@@ -25,25 +38,35 @@ Data scientist with a Ph.D. research foundation in nanomaterials and smart texti
 
 ## Work Experience
 
-### Freelance Data Scientist, Self-employed
-- **Dates:** October 2024 - Present
-- **Location:** New Jersey, United States
-- Developed predictive models, data workflows, and interactive web tools across personal finance, healthcare signals, community information, and trend forecasting.
-- Built a real-time ECG monitoring web demo with ECG replay, risk-state visualization, clinician/patient modes, and AI-style explanations.
-- Built EdisonMom / Edison Chinese Family Life Guide, a mobile-first local resource website for Chinese-speaking families in Edison, NJ.
-- Applied Python, SQL, JavaScript, and data visualization workflows to turn raw datasets into usable products and decision-support interfaces.
+### MimiLoom — Founder and AI Product Builder
+<div class="content-card">
+  <p><strong>Dates:</strong> April 2026 - Present</p>
+  <p><strong>Location:</strong> New Jersey, United States</p>
+  <p>Built AI-powered products and applied machine learning systems across personalized storytelling, healthcare interfaces, and community information platforms.</p>
+  <p>Designed multimodal AI workflows integrating LLMs, structured data pipelines, image generation systems, and interactive web applications.</p>
+  <p>Built EdisonMom, a mobile-first local discovery platform for Chinese-speaking families in New Jersey with curated events, activities, and community resources.</p>
+  <p>Developed an ECG monitoring demo with real-time waveform replay, clinician and patient interaction modes, and AI-assisted health explanation interfaces.</p>
+  <p>Applied Python, JavaScript, SQL, and modern AI tooling to deliver deployable, user-centered products end to end.</p>
+</div>
 
-### Research Collaborator, North Carolina State University
-- **Smart Textile Research:** Conducted data analysis and optimization of nanoparticle inks for wearable electronics.
-- **Solid-State Battery Project:** Contributed to solid-state Li-S battery fabrication with interdisciplinary teams, leading to publication.
+### Independent Developer
+<div class="content-card">
+  <p><strong>Dates:</strong> August 2025 - March 2026</p>
+  <p><strong>Location:</strong> New Jersey, United States</p>
+  <p>Designed and developed responsive websites and full-stack web applications using JavaScript, Python, HTML/CSS, and database-driven architectures.</p>
+  <p>Built a photography portfolio website with a mobile-first design approach focused on visual presentation and user experience.</p>
+  <p>Developed a movie discovery platform with frontend-backend integration, API-driven content workflows, and dynamic user interfaces.</p>
+  <p>Implemented interactive UI components, routing systems, and modern web deployment workflows across multiple personal projects.</p>
+</div>
 
-### Research Assistant, Ceramic Capacitor Project
-- **Location:** North Carolina State University, CDP & SHOEI
-- Conducted microfabrication, nanofabrication, and surface characterization for advanced electronic applications. Presented research findings at conferences.
-
-### Laboratory Assistant, Donghua University
-- **Dates:** September 2013 - March 2016
-- Synthesized Au and Ag nanoparticles, enhancing bio-detection sensitivity and performing LSPR characterization for optical property analysis.
+### Freelance Data Scientist
+<div class="content-card">
+  <p><strong>Dates:</strong> October 2024 - July 2025</p>
+  <p><strong>Location:</strong> New Jersey, United States</p>
+  <p>Developed predictive models, data analysis workflows, and visualization tools across healthcare, finance, and trend forecasting projects.</p>
+  <p>Applied Python, SQL, statistical modeling, and data visualization techniques to transform raw datasets into actionable insights and decision-support tools.</p>
+  <p>Built interactive dashboards and analytical workflows for exploring temporal patterns, user behavior, and forecasting scenarios.</p>
+</div>
 
 ## Technical Skills
 - **Data Science & Development:** Python, SQL, Git, Pandas, NumPy, scikit-learn, TensorFlow, JavaScript, HTML/CSS
@@ -64,7 +87,6 @@ Data scientist with a Ph.D. research foundation in nanomaterials and smart texti
 - Data Science Diploma
 - Programming for Data Science with Python
 
-## Publications
 ## Publications
 
 - **Design of Quasi-Endfire Spoof Surface Plasmon Polariton Leaky-Wave Textile Wearable Antennas**  

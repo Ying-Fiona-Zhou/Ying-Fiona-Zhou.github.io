@@ -1,76 +1,68 @@
 ---
-
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-
 ---
 
+<div class="page-intro">
+  <p class="page-intro__tagline">Research Overview</p>
+  <p class="page-intro__text">
+    My research combines materials science, machine learning, and data analytics to develop practical systems for bio-detection, wearable electronics, and interpretable modeling.
+  </p>
+  <p class="page-intro__links">
+    <a href="/research/">Research</a> / <a href="/projects/">Projects</a> / <a href="/cv/">CV</a>
+  </p>
+</div>
 
-## Research Highlights
+## Focus Areas
 
-- **Nanotechnology**: Synthesized and optimized nanoparticles for bio-detection systems and flexible electronics.
-- **Data Analytics & Machine Learning**: Applied machine learning models to predict nanoparticle properties and optimize material designs for smart textiles and bio-detection.
-- **Smart Textiles**: Developed flexible antennas and energy-harvesting devices for wearable electronics using advanced materials and computational models.
+- Nanomaterials for bio-detection and wearable systems.
+- Applied machine learning for material-property prediction and process optimization.
+- Smart textile systems including flexible antennas and conductive fabrics.
+- Data-driven experimental design for robust and repeatable research outcomes.
 
----
+## Selected Research Projects
 
-### Machine Learning Projects in Research
+### Gold Nanoparticle Size and Surface Prediction
+<div class="content-card">
+  <p><strong>Objective:</strong> Predict size and surface properties of gold nanoparticles from growth factors.</p>
+  <p><strong>Methods:</strong> Random Forest and Gradient Boosting on experimental datasets.</p>
+  <p><strong>Outcome:</strong> Strong predictive performance (R2 0.997, RMSE 0.348) and interpretable feature importance.</p>
+</div>
 
-### 1. **Gold Nanoparticle Size and Surface Prediction**
+### Baby Name Trend Forecasting with Machine Learning
+<div class="content-card">
+  <p><strong>Objective:</strong> Forecast baby-name popularity using historical trends and cultural signals.</p>
+  <p><strong>Methods:</strong> Logistic regression and feature clustering for time-aware classification.</p>
+  <p><strong>Outcome:</strong> High-accuracy modeling and multi-year forecast insights for demographic analysis.</p>
+</div>
 
-   **Objective**: Develop a predictive model to determine the size and surface properties of gold nanoparticles (Au NPs) based on growth factors.
-   **Model**: Random Forest and Gradient Boosting
-   - **Problem**: Accurately predict Au NP size and surface properties using growth factors such as temperature, time, and precursor concentrations.
-   - **Approach**: Trained Random Forest and Gradient Boosting models on experimental data to identify key features affecting nanoparticle size.
-   - **Results**: Achieved a high **R² score of 0.997** and **RMSE of 0.348**. Feature importance analysis showed that precursor concentration and temperature were the top contributors.
+## Research Experience
 
-### 2. **Future Baby Names Prediction: Leveraging Famous Influences with Machine Learning**
+- **Biophysics Lab, North Carolina State University (2017-2018)**  
+  Conducted DNA bio-detection research with upconversion nanoparticles and analyzed time-series spectroscopy datasets to study molecular motion.
 
-   **Objective**: Predict future baby name trends based on historical data and cultural influences using a logistic regression model.
-   **Model**: Logistic Regression
-   - **Problem**: Predicting popular baby names using time-series data and demographic information, addressing overfitting and underfitting issues.
-   - **Approach**: Developed a logistic regression model with **98% accuracy**, employing feature clustering to identify key influencers (celebrity names, historical figures).
-   - **Results**: Created a 5-year prediction of baby name trends with insights for marketing and demographic forecasting.
+- **Smart Textile Research, North Carolina State University (2018-2022)**  
+  Led collaborations on textile-based antennas and nanomaterial inks, combining spectroscopy, optimization, and machine learning for wearable electronics.
 
----
+- **Donghua University (2013-2016)**  
+  Synthesized Ag nanoparticles and improved bio-detection performance through spray-coating workflows and regression-based optimization.
 
-### Research Assistant | Biophysics Lab | North Carolina State University
-#### **JAN 2017 – AUG 2018, RALEIGH, NC**
+## Recent Publications
 
-- **Experimental**: Conducted research on DNA bio-detection using optical anisotropy of upconversion nanoparticles (UCNPs) to probe intricate protein-DNA interactions. Enhanced the accuracy of bio-detection systems by optimizing nanoparticle formulations.
-- **Data Analysis**: Analyzed time-series data from single-molecule spectroscopy to study protein motion dynamics. Applied statistical models and data visualization techniques, leading to better understanding of molecular interactions.
+- **Textile-Integrated Liquid Metal Electrodes for Electrophysiological Monitoring** (2022, *Advanced Healthcare Materials*)  
+  [Project page](/publication/2022-09-01-liquid-metal-electrodes) | [DOI](https://doi.org/10.1002/adhm.202200745)
 
----
+- **Design of Quasi-Endfire Spoof Surface Plasmon Polariton Leaky-Wave Textile Wearable Antennas** (2022, *IEEE ACCESS*)  
+  [Project page](/publication/2022-01-01-quasi-endfire-textile-antenna) | [DOI](https://doi.org/10.1109/ACCESS.2022.3218217)
 
-### Research Assistant | Smart Textile Research | North Carolina State University
-#### **SEP 2018 – MAR 2022, RALEIGH, NC**
+- **Interconnected Cathode-Electrolyte Double-Layer Enabling Continuous Li-Ion Conduction Throughout Solid-State Li-S Battery** (2022, *Energy Storage Materials*)  
+  [Project page](/publication/2022-01-01-li-ion-conduction) | [DOI](https://doi.org/10.1016/j.ensm.2021.10.014)
 
-- **Experimental**: Led collaboration with the ASSIST Center to develop flexible textile-based antennas for wearable electronics. Applied advanced spectroscopy techniques (FTIR, Raman) to optimize ink formulations, improving conductivity and durability by 20 wt.%.
-- **Data-Driven**: Leveraged machine learning models (Random Forest, multivariate analysis) to optimize nanomaterial-based inks. Conducted data analysis using Python and MATLAB to assess antenna flexibility and predict performance under various conditions.
+## Methods and Tools
 
----
-
-### Research Assistant | Donghua University
-#### **SEP 2013 – MAR 2016, SHANGHAI, CHINA**
-
-- **Experimental**: Synthesized Ag nanoparticles and applied them in bio-detection systems. Developed spray-coating techniques for nanoparticle deposition, enhancing LSPR effects, which led to a 4-fold increase in bio-detection signal strength.
-- **Data Analysis**: Conducted UV-Vis and fluorescence spectroscopy testing, applying regression analysis to evaluate the effects of nanoparticle interparticle distance on signal intensity. Optimized synthesis using ANOVA and regression models.
-
----
-
-### Additional Contributions:
-
-- Published **11 research papers** and presented findings at **10+ conferences** in the fields of nanotechnology, wearable electronics, and bio-detection systems.
-- Applied **machine learning** and **data analytics** to enhance experimental design and predict material properties in research projects across **smart textiles** and **bio-nanotechnology**.
-- Led interdisciplinary collaborations and contributed to the development of market-ready products in **wearable electronics** and **biosensor technologies**.
-
----
-
-### Skills and Tools:
-
-- **Data Analysis & Machine Learning**: Python (Pandas, NumPy, Matplotlib), R, MATLAB, Scikit-learn
-- **Algorithms**: Random Forest, Gradient Boosting, Decision Trees, Logistic Regression, K-Means Clustering
-- **Spectroscopy Techniques**: FTIR, Raman, UV-Vis, Fluorescence Spectroscopy
-- **Statistical Analysis**: ANOVA, Time-Series Data, Signal Processing, Regression Analysis
+- Data science: Python, Pandas, NumPy, scikit-learn, MATLAB.
+- Modeling: Random Forest, Gradient Boosting, Logistic Regression, clustering.
+- Characterization: FTIR, Raman, UV-Vis, fluorescence spectroscopy.
+- Statistics: ANOVA, regression analysis, time-series analysis.

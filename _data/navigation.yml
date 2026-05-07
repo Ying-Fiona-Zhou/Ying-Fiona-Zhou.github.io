@@ -8,25 +8,25 @@
   main:
     #- title: "Publications"
     #  url: /publications/
-  
-    - title: "Talks"
-      url: /talks/
-  
-    - title: "Teaching"
-      url: /teaching/
-  
-    - title: "Projects"
-      url: /projects/
-  
-    # - title: "Blog Posts"
-    #   url: /year-archive/
-  
+
     - title: "Research"
       url: /research/
-  
+
+    - title: "Projects"
+      url: /projects/
+
     - title: "CV"
       url: /cv/
-  
+
+    - title: "Talks"
+      url: /talks/
+
+    - title: "Teaching"
+      url: /teaching/
+
+    # - title: "Blog Posts"
+    #   url: /year-archive/
+
     # - title: "Guide"
     # url: /markdown/
     

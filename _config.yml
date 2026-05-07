@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title: "Ying Zhou | Data Scientist + CS Graduate Student"
+title: "Fiona Zhou"
 title_separator: "-"
-name                     : &name "Ying Fiona Zhou"
+name                     : &name "Fiona Zhou"
 description              : &description "Professional Website"
 url                      : "https://Ying-Fiona-Zhou.github.io"
 baseurl                  : ""  # Keep this empty if your site is at the root of the domain
@@ -84,8 +84,8 @@ analytics:
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ying Fiona Zhou"
-  bio              : "Data Scientist and Georgia Tech CS graduate student building ML, healthcare data, community web, and scientific computing projects."
+  name             : "Fiona Zhou"
+  bio              : "AI product builder and Georgia Tech computer science graduate student developing applied AI systems, intelligent web platforms, and data-driven tools across healthcare, scientific computing, and community applications."
   location         : "Metuchen, NJ"
   employer         : "Independent"
   email            : "ying6.zhou@gmail.com" 

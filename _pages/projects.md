@@ -5,46 +5,56 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Projects
+<div class="page-intro">
+  <p class="page-intro__tagline">Selected Projects</p>
+  <p class="page-intro__text">
+    A selection of data science and web projects spanning healthcare interfaces, community products, forecasting systems, and scientific analytics.
+  </p>
+  <p class="page-intro__links">
+    <a href="/research/">Research</a> / <a href="/projects/">Projects</a> / <a href="/cv/">CV</a>
+  </p>
+</div>
 
 ### EdisonMom / Edison Chinese Family Life Guide
-
-- **Type:** Local community web product
-- **Stack:** HTML, CSS, JavaScript, analytics, mobile-first content design
-- **Live site:** [edisonmom.com](https://edisonmom.com/)
-- **Repository:** [Edison_family_guide](https://github.com/Ying-Fiona-Zhou/Edison_family_guide)
-
-Built a Chinese-language local life guide for families in Edison, NJ, covering school information, activities, food, life services, events, and practical relocation resources. The project focuses on fast mobile navigation, bilingual-friendly information architecture, and community usefulness.
+<p class="project-meta"><span class="meta-badge">2026</span> <span class="meta-badge">Web Product</span> <span class="meta-badge">Community</span></p>
+<div class="content-card">
+  <p><strong>Type:</strong> Local community web product</p>
+  <p><strong>Stack:</strong> HTML, CSS, JavaScript, analytics, mobile-first content design</p>
+  <p><strong>Links:</strong> <a href="https://edisonmom.com/">Live site</a> | <a href="https://github.com/Ying-Fiona-Zhou/Edison_family_guide">Repository</a></p>
+  <p>Built a Chinese-language local life guide for families in Edison, NJ, covering schools, activities, services, and relocation resources.</p>
+</div>
 
 ### Real-time ECG Monitor
-
-- **Type:** Healthcare data web demo
-- **Stack:** JavaScript, Python, ECG feature extraction, risk-state UI, interactive canvas visualization
-- **Live site:** [ecag2.netlify.app](https://ecag2.netlify.app/)
-- **Repository:** [ECAG2](https://github.com/zack1111111111111/ECAG2)
-
-Designed an interactive ECG monitoring concept that replays ECG signals, surfaces heart-rate and HRV metrics, compares states across risk levels, and presents explanations for both clinician and patient views. The project connects biosignal analysis with a product-style interface for clearer health data communication.
+<p class="project-meta"><span class="meta-badge">2026</span> <span class="meta-badge">Healthcare</span> <span class="meta-badge">Data Visualization</span></p>
+<div class="content-card">
+  <p><strong>Type:</strong> Healthcare data web demo</p>
+  <p><strong>Stack:</strong> JavaScript, Python, ECG feature extraction, risk-state UI, interactive canvas visualization</p>
+  <p><strong>Links:</strong> <a href="https://ecag2.netlify.app/">Live site</a> | <a href="https://github.com/zack1111111111111/ECAG2">Repository</a></p>
+  <p>Designed an ECG monitoring concept with replay, heart-rate and HRV metrics, multi-risk comparison, and clinician/patient explanation modes.</p>
+</div>
 
 ### Baby Name Trend Forecasting
-
-- **Type:** Data science capstone
-- **Stack:** Python, Pandas, scikit-learn, time-series analysis, feature engineering, visualization
-- **Live app:** [babynamesprediction.streamlit.app](https://babynamesprediction.streamlit.app/)
-- **Repository:** [Capstone_BabyName](https://github.com/Ying-Fiona-Zhou/Capstone_BabyName)
-
-Analyzed U.S. baby-name datasets from 1952 to 2023 to understand popularity shifts, demographic patterns, and cultural influence. Built forecasting and classification workflows to explore future name trends and turn noisy historical data into interpretable insights.
+<p class="project-meta"><span class="meta-badge">2024</span> <span class="meta-badge">Machine Learning</span> <span class="meta-badge">Forecasting</span></p>
+<div class="content-card">
+  <p><strong>Type:</strong> Data science capstone</p>
+  <p><strong>Stack:</strong> Python, Pandas, scikit-learn, time-series analysis, feature engineering, visualization</p>
+  <p><strong>Links:</strong> <a href="https://babynamesprediction.streamlit.app/">Live app</a> | <a href="https://github.com/Ying-Fiona-Zhou/Capstone_BabyName">Repository</a></p>
+  <p>Analyzed U.S. baby-name datasets (1952-2023) to model trend shifts and produce interpretable forecasts.</p>
+</div>
 
 ### Nanoparticle and Smart Textile Analytics
-
-- **Type:** Research + applied machine learning
-- **Stack:** Python, MATLAB, statistical modeling, spectroscopy analysis, materials characterization
-
-Applied data analysis and predictive modeling to nanomaterial synthesis, bio-detection systems, conductive inks, flexible antennas, and wearable electronics. This work builds on my Ph.D. research and connects experimental design with computational insight.
+<p class="project-meta"><span class="meta-badge">2017-2022</span> <span class="meta-badge">Research</span> <span class="meta-badge">Applied ML</span></p>
+<div class="content-card">
+  <p><strong>Type:</strong> Research and applied machine learning</p>
+  <p><strong>Stack:</strong> Python, MATLAB, statistical modeling, spectroscopy analysis, materials characterization</p>
+  <p>Applied predictive modeling to nanomaterial synthesis, conductive inks, flexible antennas, and wearable systems.</p>
+</div>
 
 ### MoneyApp
-
-- **Type:** Personal finance web application
-- **Stack:** Python, HTML, CSS, JavaScript, import workflows, dashboard UI
-- **Repository:** [Moneyapp](https://github.com/Ying-Fiona-Zhou/Moneyapp)
-
-Built a financial import and categorization tool for parsing transaction records, reviewing spending, and turning personal finance data into a cleaner analysis workflow.
+<p class="project-meta"><span class="meta-badge">2026</span> <span class="meta-badge">Fintech</span> <span class="meta-badge">Data Workflow</span></p>
+<div class="content-card">
+  <p><strong>Type:</strong> Personal finance web application</p>
+  <p><strong>Stack:</strong> Python, HTML, CSS, JavaScript, import workflows, dashboard UI</p>
+  <p><strong>Link:</strong> <a href="https://github.com/Ying-Fiona-Zhou/Moneyapp">Repository</a></p>
+  <p>Built a transaction import and categorization workflow for cleaner personal finance analysis.</p>
+</div>
