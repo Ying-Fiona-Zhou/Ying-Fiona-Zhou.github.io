@@ -20,7 +20,7 @@ author_profile: true
 <div class="content-card">
   <p><strong>Type:</strong> Local community web product</p>
   <p><strong>Stack:</strong> HTML, CSS, JavaScript, analytics, mobile-first content design</p>
-  <p><strong>Links:</strong> <a href="https://edisonmom.com/">Live site</a> | <a href="https://github.com/Ying-Fiona-Zhou/Edison_family_guide">Repository</a></p>
+  <p><strong>Links:</strong> <a href="https://edisonmom.com/">Live site</a> | <a href="https://github.com/FionaZhou09/Edison_family_guide">Repository</a></p>
   <p>Built a Chinese-language local life guide for families in Edison, NJ, covering schools, activities, services, and relocation resources.</p>
 </div>
 
@@ -38,7 +38,7 @@ author_profile: true
 <div class="content-card">
   <p><strong>Type:</strong> Data science capstone</p>
   <p><strong>Stack:</strong> Python, Pandas, scikit-learn, time-series analysis, feature engineering, visualization</p>
-  <p><strong>Links:</strong> <a href="https://babynamesprediction.streamlit.app/">Live app</a> | <a href="https://github.com/Ying-Fiona-Zhou/Capstone_BabyName">Repository</a></p>
+  <p><strong>Links:</strong> <a href="https://babynamesprediction.streamlit.app/">Live app</a> | <a href="https://github.com/FionaZhou09/Capstone_BabyName">Repository</a></p>
   <p>Analyzed U.S. baby-name datasets (1952-2023) to model trend shifts and produce interpretable forecasts.</p>
 </div>
 
@@ -55,6 +55,6 @@ author_profile: true
 <div class="content-card">
   <p><strong>Type:</strong> Personal finance web application</p>
   <p><strong>Stack:</strong> Python, HTML, CSS, JavaScript, import workflows, dashboard UI</p>
-  <p><strong>Link:</strong> <a href="https://github.com/Ying-Fiona-Zhou/Moneyapp">Repository</a></p>
+  <p><strong>Link:</strong> <a href="https://github.com/FionaZhou09/Moneyapp">Repository</a></p>
   <p>Built a transaction import and categorization workflow for cleaner personal finance analysis.</p>
 </div>

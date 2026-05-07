@@ -59,5 +59,5 @@ I hold a Ph.D. from North Carolina State University and currently pursue graduat
 ## Contact
 
 - Email: [ying6.zhou@gmail.com](mailto:ying6.zhou@gmail.com)
-- GitHub: [Ying-Fiona-Zhou](https://github.com/Ying-Fiona-Zhou)
+- GitHub: [FionaZhou09](https://github.com/FionaZhou09)
 - LinkedIn: [yzhou09](https://www.linkedin.com/in/yzhou09/)
